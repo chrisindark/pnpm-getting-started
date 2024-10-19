@@ -38,3 +38,11 @@ Run the fullstack application in development mode (with live reload enabled in t
 ```bash
 pnpm run start:dev
 ```
+
+###
+pnpm add <package_name>
+pnpm add -D <package_name>
+pnpm add -O <package_name>
+
+pnpm remove <package_name>
+pnpm uninstall <package_name>
